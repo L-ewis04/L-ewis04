@@ -4,7 +4,7 @@
 
 **MEng Biomedical Engineering (Artificial Intelligence) · University of Southampton**
 
-[LinkedIn](https://www.linkedin.com/in/lewis-herring-a45a32356/) · [Email](mailto:Lh12g23@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lewis-herring-a45a32356/)
 
 </div>
 
@@ -13,38 +13,35 @@
 Biomedical Engineering student at the University of Southampton focused on artificial intelligence, machine learning and healthcare technology. I enjoy building data-driven systems that combine software, engineering and clinical applications — from predictive modelling and decision-support systems to embedded biomedical devices.
 
 ---
-
 ## Skills
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-555555)
+### Languages
 
-**Machine Learning & Data**  
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,r" height="48" />
+</p>
 
-**Software & Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+### Machine Learning & Data
 
-**Engineering**  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-555555)
-![LTspice](https://img.shields.io/badge/LTspice-A01818)
-![EAGLE](https://img.shields.io/badge/EAGLE-PCB%20Design-555555)
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="48" />
+</p>
 
----
+**Also:** XGBoost · Pandas · NumPy · MATLAB
 
+### Software & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,sqlite,figma" height="48" />
+</p>
+
+### Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="48" />
+</p>
+
+**Also:** SystemVerilog · FPGA · LTspice · EAGLE · Il Matto
 ## Projects
 
 | Project | Description | Stack |
