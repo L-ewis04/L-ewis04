@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**L-ewis04/L-ewis04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lewis Herring
 
-Here are some ideas to get you started:
+**MEng Biomedical Engineering (Artificial Intelligence) · University of Southampton**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/lewis-herring-a45a32356/) · [Email](mailto:Lh12g23@gmail.com)
+
+</div>
+
+---
+
+Biomedical Engineering student at the University of Southampton focused on artificial intelligence, machine learning and healthcare technology. I enjoy building data-driven systems that combine software, engineering and clinical applications — from predictive modelling and decision-support systems to embedded biomedical devices.
+
+---
+
+## Skills
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-555555)
+
+**Machine Learning & Data**  
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+
+**Software & Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+
+**Engineering**  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-555555)
+![LTspice](https://img.shields.io/badge/LTspice-A01818)
+![EAGLE](https://img.shields.io/badge/EAGLE-PCB%20Design-555555)
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [CGM Intervention in Teens & Young Adults with T1D](https://github.com/L-ewis04/CGM-Intervention-in-Teens-and-Young-adults-with-T1D) | Analysis of continuous glucose monitoring interventions in teenagers and young adults with Type 1 Diabetes | Python · Data Analysis · Healthcare |
+| **Blood Sugar Predictive Model** | Predictive model for classifying future blood glucose states 15 minutes in advance | Python · XGBoost · Logistic Regression |
+| **Stroke Rehabilitation Decision Support System** | ML-based decision-support system for classifying rehabilitation movements | Python · C++ · SVM · Random Forest · XGBoost |
+| **Sexual Health App** | Full-stack application supporting users considering and taking PrEP | Python · Tkinter · SQLite · Figma |
+| **Heart Rate & Proximity Detection System** | Embedded system using optical sensors for proximity and photoplethysmography-based heart-rate detection | C · ADC · Optical Sensors · Il Matto |
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=L-ewis04&show_icons=true&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-ewis04&layout=compact&hide_border=true&theme=transparent" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=L-ewis04&theme=transparent&hide_border=true" />
+
+</div>
